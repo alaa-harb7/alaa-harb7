@@ -94,13 +94,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=alaa-harb7&show_icons=true&locale=en" alt="alaa-harb7" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alaa-harb7&show_icons=true&locale=en&layout=compact" alt="alaa-harb7" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alaa-harb7&" alt="alaa-harb7" />
-</p>
-
----
-
-### 📈 GitHub Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=alaa-harb7&theme=react-dark" alt="GitHub Activity Graph"/>
-</p>
