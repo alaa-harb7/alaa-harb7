@@ -1,104 +1,106 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Alaa Harb - AI/ML Engineer</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f4f4f4;
-      color: #333;
-      margin: 0;
-      padding: 0;
-    }
-    .container {
-      width: 90%;
-      max-width: 1000px;
-      margin: auto;
-      padding: 20px;
-      background-color: #fff;
-    }
-    h1, h3, h2 {
-      text-align: center;
-      color: #2c3e50;
-    }
-    .section {
-      margin-top: 30px;
-    }
-    .social-icons img {
-      margin-right: 10px;
-    }
-    .tools img {
-      margin: 5px;
-    }
-    .stats {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: space-around;
-      margin-top: 30px;
-    }
-    .stats img {
-      max-width: 100%;
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <h1>👋 Hi, I'm Alaa Harb</h1>
-    <h3>A passionate AI and ML Engineer</h3>
+<h1 align="center">Hi 👋, I'm Alaa Harb</h1>
+<h3 align="center">A passionate AI and ML Engineer with a strong foundation in data science, deep learning, and computer vision. I love building impactful AI solutions and sharing knowledge with the community.</h3>
 
-    <p align="center">
-      <img src="https://komarev.com/ghpvc/?username=alaa-harb7&label=Profile%20views&color=0e75b6&style=flat" alt="alaa-harb7" />
-    </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alaa-harb7&label=Profile%20views&color=0e75b6&style=flat" alt="alaa-harb7" />
+</p>
 
-    <div class="section">
-      <ul>
-        <li>🔭 Currently working on <strong>Sentiment Analysis Project</strong></li>
-        <li>🌱 Currently learning <strong>Computer Vision</strong></li>
-        <li>👨‍💻 Portfolio: <a href="https://www.datascienceportfol.io/alaaharbofficial" target="_blank">View Projects</a></li>
-        <li>📫 Email: <a href="mailto:alaaharbofficial@gmail.com">alaaharbofficial@gmail.com</a></li>
-        <li>📄 Resume: <a href="https://drive.google.com/file/d/1V7eAaPTJBdOcCWwkn3m2wL-5CI2yKTMA/view?usp=sharing" target="_blank">View CV</a></li>
-      </ul>
-    </div>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=alaa-harb7" alt="alaa-harb7" />
+  </a>
+</p>
 
-    <div class="section">
-      <h2>Connect with me</h2>
-      <p class="social-icons">
-        <a href="https://www.linkedin.com/in/alaa-harb7" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-        </a>
-        <a href="https://www.kaggle.com/alaaharb7" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-        </a>
-      </p>
-    </div>
+---
 
-    <div class="section">
-      <h2>Languages and Tools</h2>
-      <p class="tools">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" />
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40" />
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" />
-        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
-        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" />
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" />
-      </p>
-    </div>
+### 💼 About Me
 
-    <div class="section stats">
-      <img src="https://github-profile-trophy.vercel.app/?username=alaa-harb7" alt="Trophies" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alaa-harb7&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-      <img src="https://github-readme-stats.vercel.app/api?username=alaa-harb7&show_icons=true&locale=en" alt="GitHub Stats" />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=alaa-harb7" alt="Streak Stats" />
-    </div>
+- 🔭 I’m currently working on **Sentiment Analysis Project**
+- 🌱 I’m currently learning **Computer Vision**
+- 👨‍💻 All of my projects are available at [My Portfolio](https://www.datascienceportfol.io/alaaharbofficial)
+- 📫 How to reach me **alaaharbofficial@gmail.com**
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1V7eAaPTJBdOcCWwkn3m2wL-5CI2yKTMA/view?usp=sharing)
 
-  </div>
-</body>
-</html>
+---
+
+### 🌐 Connect with me
+<p align="left">
+  <a href="https://linkedin.com/in/alaa-harb7" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.kaggle.com/alaaharb7" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+### 🚀 Languages and Tools
+
+#### 🖥️ Programming Languages
+<a href="https://www.w3schools.com/cpp/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+</a>
+
+#### 🌐 Web Development
+<a href="https://www.w3.org/html/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
+</a>
+<a href="https://getbootstrap.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
+</a>
+
+#### 🔢 Data Science & Machine Learning
+<a href="https://pandas.pydata.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
+</a>
+<a href="https://scikit-learn.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40" />
+</a>
+<a href="https://seaborn.pydata.org/" target="_blank">
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40" />
+</a>
+<a href="https://www.tensorflow.org" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" />
+</a>
+<a href="https://pytorch.org/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40" />
+</a>
+<a href="https://opencv.org/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40" />
+</a>
+
+#### 💾 Databases & Version Control
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
+</a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40" />
+</a>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alaa-harb7&show_icons=true&locale=en" alt="alaa-harb7" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alaa-harb7&show_icons=true&locale=en&layout=compact" alt="alaa-harb7" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alaa-harb7&" alt="alaa-harb7" />
+</p>
+
+---
+
+### 📈 GitHub Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=alaa-harb7&theme=react-dark" alt="GitHub Activity Graph"/>
+</p>
